@@ -8,7 +8,9 @@
 
 - [ ]  Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting (논문 읽기 : 이번주 ~ 3/29, 코드 분석 : 다음주 ~4/4)
 
-  공부 자료 : TFT 폴더 📂 내 pdf (~ing) , 7-2 ~ : 월요일 
+  공부 자료 : TFT 폴더 📂 내 pdf 
+  
+  코드 분석 : 이번 주에 하기 
   
 - [ ] Benchmarking Deep Learning Interpretability in Time Series Predictions (논문 읽기 : 다음주 ~4/4, 코드 분석 : ~4/11)
 
