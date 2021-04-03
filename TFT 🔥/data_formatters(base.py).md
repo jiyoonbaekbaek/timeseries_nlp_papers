@@ -504,7 +504,7 @@ class GenericDataFormatter(abc.ABC):
 
 - _column_definition : defines order, input type and data type of each column 
 
-**setter 로 프로퍼티 속성을 사용한 메소드 (추상 클래스 메소드 x)**
+**getter 로 프로퍼티 속성을 사용한 메소드 (추상 클래스 메소드 x)**
 
 - num_classes_per_cat_input : returns number of categories per relevant input 
 
