@@ -289,7 +289,7 @@ class GenericDataFormatter(abc.ABC):
     return fixed_params
 ```
 
-1. 프로퍼티 사용하기 
+- 프로퍼티 사용하기 
 
 출처 : [파이썬 코딩 도장 - 추상클래스](https://www.youtube.com/watch?v=YiuTxiTi7aE)
 
@@ -492,7 +492,7 @@ class GenericDataFormatter(abc.ABC):
 
 정리해보면
 
-**@abc.abstractmethod 를 사용한 추상 클래스 메소드 (setter 로 값 가져오기 x)**
+**@abc.abstractmethod 를 사용한 추상 클래스 메소드 (getter 로 값 가져오기 x)**
 
 - set_scalers : calibrates scalers using the data supplied
 - transform_inputs : perform feature transformation
@@ -500,7 +500,7 @@ class GenericDataFormatter(abc.ABC):
 - split_data : performs the default train, validation and test splits
 - get_fixed_params : defines the fixed parameters used by model for training 
 
-**@abc.abstractmethod 를 사용한 추상 클래스 메소드 (+ setter 로 값 가져오기)**
+**@abc.abstractmethod 를 사용한 추상 클래스 메소드 (+ getter 로 값 가져오기)**
 
 - _column_definition : defines order, input type and data type of each column 
 
@@ -508,7 +508,7 @@ class GenericDataFormatter(abc.ABC):
 
 - num_classes_per_cat_input : returns number of categories per relevant input 
 
-**그 외 data_formatters 에 정의된 메소드 (추상 메소드 아님, setter 아님)**
+**그 외 data_formatters 에 정의된 메소드 (추상 메소드 아님, getter 아님)**
 
 - get_num_samples_for_calibration : gets the default number of training and validation samples 
 
