@@ -10,7 +10,7 @@
 
   코드 분석 : https://jiyoonbaekbaek.github.io/2021-03-23-first/
 
-- [ ]  Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting  (코드 분석 : ~ 4/4)
+- [x]  Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting  (코드 분석 : ~ 4/4)
 
   [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363v3.pdf)
   
