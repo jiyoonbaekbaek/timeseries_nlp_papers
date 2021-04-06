@@ -24,7 +24,7 @@
   
   - data_formatters : 데이터 칼럼 정보, normalization 등등 데이터 관련 부분 ✔️  📂
   - utils.py : general helper functions ✔️  📂
-  - 🌟 tft_model.py : 모델 설계 부분 🔜 (블로그에 올릴 예정)
+  - 🌟 tft_model.py : 모델 설계 부분 https://jiyoonbaekbaek.github.io/2021-04-06-first/
   
   
   
