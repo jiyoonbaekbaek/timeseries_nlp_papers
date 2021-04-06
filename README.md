@@ -17,8 +17,8 @@
   공부 자료 : TFT 폴더 📂 내 pdf 
   
   코드 분석 : 
-  - data_formatters : 데이터 칼럼 정보, normalization 등등 데이터 관련 부분 ✔️  📂
-  - utils.py : general helper functions ✔️  📂
+  - data_formatters : 데이터 칼럼 정보, normalization 등등 데이터 관련 부분 -> TFT 📂
+  - utils.py : general helper functions -> TFT 📂
   - 🌟 tft_model.py : 모델 설계 부분 https://jiyoonbaekbaek.github.io/2021-04-06-first/
   
  ( 코드 제공자 : [google-research/tft](https://github.com/google-research/google-research/tree/master/tft) ) 
