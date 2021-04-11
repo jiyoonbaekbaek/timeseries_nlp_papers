@@ -24,7 +24,9 @@
  ( 코드 제공자 : [google-research/tft](https://github.com/google-research/google-research/tree/master/tft) ) 
   
   
-- [ ] TCN (논문 읽기 : ~4/11, 코드 분석 : ~4/18)
+- [ ] TCN (코드 분석 : 4/12)
   
-  [Temporal Convolutional Networks : A Unified Approach to Action Segmentation](https://arxiv.org/pdf/1608.08242v1.pdf)
+  [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/pdf/1803.01271.pdf)
+  
+  공부 자료 : TCN 폴더 📂 내 pdf 
   
