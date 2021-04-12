@@ -10,7 +10,7 @@
 
   코드 분석 : https://jiyoonbaekbaek.github.io/2021-03-23-first/
 
-- [x]  TFT 공부, 코드 분석 (20201/04/06)
+- [x]  TFT 공부, 코드 분석 (2021/04/06)
 
   [Temporal Fusion Transformers for Interpretable Multi-horizon Time Series Forecasting](https://arxiv.org/pdf/1912.09363v3.pdf)
   
@@ -24,9 +24,11 @@
  ( 코드 제공자 : [google-research/tft](https://github.com/google-research/google-research/tree/master/tft) ) 
   
   
-- [ ] TCN (코드 분석 : 4/12)
+- [x] TCN 공부, 코드 분석 (2021/04/12)
   
   [An Empirical Evaluation of Generic Convolutional and Recurrent Networks for Sequence Modeling](https://arxiv.org/pdf/1803.01271.pdf)
+  
+  코드 분석 : https://jiyoonbaekbaek.github.io/2021-04-12-first/
   
   공부 자료 : TCN 폴더 📂 내 pdf 
   
