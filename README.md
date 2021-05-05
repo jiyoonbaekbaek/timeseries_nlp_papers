@@ -38,3 +38,4 @@
   
   공부 자료 : es-RNN 폴더 📂 내 pdf 
   
+  코드 분석 : es-RNN 폴더 📂 ~ studying codes written by [vmm221313](https://github.com/vmm221313/ES-RNN/blob/master/es_rnn/main.py#L71)
