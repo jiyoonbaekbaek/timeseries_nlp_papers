@@ -32,7 +32,7 @@
   
   공부 자료 : TCN 폴더 📂 내 pdf 
   
-- [ ] ES_RNN 공부, 코드 분석 
+- [x] ES_RNN 공부, 코드 분석 
   
   [A hybrid method of Exponential Smoothing and Recurrent Neural Networks for time series forecasting](https://github.com/slaweks17/ES_RNN/blob/master/A_hybrid_method_of_exponential_smoothing_and_recurrent_neural_networks_for_time_series_forecasting.pdf)
   
